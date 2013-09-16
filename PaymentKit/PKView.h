@@ -14,7 +14,7 @@
 #import "PKAddressZip.h"
 #import "PKUSAddressZip.h"
 
-@class PKView;
+@class PKView, PKTextField;
 //Block
 typedef void(^CompletionBlock)(BOOL validCard,PKCard *card,PKView *paymentView);
 
@@ -42,10 +42,10 @@ typedef void(^CompletionBlock)(BOOL validCard,PKCard *card,PKView *paymentView);
 
 @property IBOutlet UIView* innerView;
 @property IBOutlet UIView* clipView;
-@property IBOutlet UITextField* cardNumberField;
-@property IBOutlet UITextField* cardExpiryField;
-@property IBOutlet UITextField* cardCVCField;
-@property IBOutlet UITextField* addressZipField;
+@property IBOutlet PKTextField* cardNumberField;
+@property IBOutlet PKTextField* cardExpiryField;
+@property IBOutlet PKTextField* cardCVCField;
+@property IBOutlet PKTextField* addressZipField;
 @property IBOutlet UIImageView* placeholderView;
 @property id <PKViewDelegate> delegate;
 @property (readonly) PKCard* card;

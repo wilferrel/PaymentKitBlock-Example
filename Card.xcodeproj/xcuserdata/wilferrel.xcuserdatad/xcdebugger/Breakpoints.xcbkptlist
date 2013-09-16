@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "645"
-         endingLineNumber = "645"
+         startingLineNumber = "661"
+         endingLineNumber = "661"
          landmarkName = "@implementation PKView"
          landmarkType = "3">
       </FileBreakpoint>
@@ -21,11 +21,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "668"
-         endingLineNumber = "668"
+         startingLineNumber = "684"
+         endingLineNumber = "684"
          landmarkName = "@implementation PKView"
          landmarkType = "3">
       </FileBreakpoint>
@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "667"
-         endingLineNumber = "667"
+         startingLineNumber = "683"
+         endingLineNumber = "683"
          landmarkName = "@implementation PKView"
          landmarkType = "3">
       </FileBreakpoint>
@@ -47,11 +47,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "649"
-         endingLineNumber = "649"
+         startingLineNumber = "665"
+         endingLineNumber = "665"
          landmarkName = "@implementation PKView"
          landmarkType = "3">
       </FileBreakpoint>
@@ -60,11 +60,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "648"
-         endingLineNumber = "648"
+         startingLineNumber = "664"
+         endingLineNumber = "664"
          landmarkName = "@implementation PKView"
          landmarkType = "3">
       </FileBreakpoint>
@@ -82,15 +82,15 @@
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
+         timestampString = "401049039.927879"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "80"
-         endingLineNumber = "80"
+         startingLineNumber = "82"
+         endingLineNumber = "82"
          landmarkName = "-setup"
          landmarkType = "5">
       </FileBreakpoint>
@@ -99,33 +99,7 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401040248.760606"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "619"
-         endingLineNumber = "619"
-         landmarkName = "@implementation PKView"
-         landmarkType = "3">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "PaymentKit/PKView.m"
-         timestampString = "401044790.371287"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "650"
-         endingLineNumber = "650"
-         landmarkName = "@implementation PKView"
-         landmarkType = "3">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "PaymentKit/PKView.m"
-         timestampString = "401044841.401211"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "635"
@@ -134,16 +108,68 @@
          landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PaymentKit/PKView.m"
+         timestampString = "401049597.00049"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "666"
+         endingLineNumber = "666"
+         landmarkName = "@implementation PKView"
+         landmarkType = "3">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PaymentKit/PKView.m"
+         timestampString = "401049597.00049"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "651"
+         endingLineNumber = "651"
+         landmarkName = "@implementation PKView"
+         landmarkType = "3">
+      </FileBreakpoint>
+      <FileBreakpoint
          shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "PaymentKit/PKView.m"
-         timestampString = "401045658.986457"
+         timestampString = "401049597.00049"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "377"
-         endingLineNumber = "377"
+         startingLineNumber = "390"
+         endingLineNumber = "390"
          landmarkName = "-cardNumberFieldShouldChangeCharactersInRange:replacementString:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PaymentKit/PKView.m"
+         timestampString = "401049039.927879"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "374"
+         endingLineNumber = "374"
+         landmarkName = "-pkTextFieldDidBackSpaceWhileTextIsEmpty:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PaymentKit/PKView.m"
+         timestampString = "401049597.00049"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "414"
+         endingLineNumber = "414"
+         landmarkName = "-cardExpiryShouldChangeCharactersInRange:replacementString:"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
