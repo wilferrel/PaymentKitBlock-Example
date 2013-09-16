@@ -8,6 +8,7 @@
 
 #import "AGAViewController.h"
 
+
 @interface AGAViewController ()
 
 @end
@@ -18,6 +19,23 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+//    _paymentView = [[PKView alloc] initWithFrame:CGRectMake(0, 25, 290, 45)];
+    PKView* _cardView= [PKView cardPromptinView:self.view withFrame:CGRectMake(0, 25, 290, 45) ];
+//  _paymentView = [PKView cardPromptinView:_paymentView withFrame:CGRectMake(0, 25, 290, 45)];
+
+    [_cardView setCompletionBlock:^(BOOL validCard, PKCard *card, PKView *cardView) {
+        if (validCard) {
+            NSLog(@"Valid Card");
+            NSLog(@"Card properties zip :%@",card.addressZip);
+            NSLog(@"Card properties number :%@",card.number);
+        }
+        else
+        {
+            NSLog(@"Invalid Card");
+        }
+    }];
+    [self.view addSubview:_cardView];
+    
 }
 
 - (void)didReceiveMemoryWarning

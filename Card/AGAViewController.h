@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PKView.h"
 
-@interface AGAViewController : UIViewController
 
+@interface AGAViewController : UIViewController <PKViewDelegate>
+//@property IBOutlet PKView* paymentView;
 @end
