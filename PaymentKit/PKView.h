@@ -26,8 +26,8 @@ typedef void(^CompletionBlock)(BOOL validCard,PKCard *card,PKView *paymentView);
 
 @interface PKView : UIView <UITextFieldDelegate> {
     CompletionBlock _completionBlock;
-
-    @private
+    
+@private
     BOOL isInitialState;
     BOOL isValidState;
     BOOL isUSAddress;
@@ -55,5 +55,8 @@ typedef void(^CompletionBlock)(BOOL validCard,PKCard *card,PKView *paymentView);
 @property (nonatomic, copy)CompletionBlock completionBlock;
 + (PKView *)cardPromptinView:(UIView *)view withFrame:(CGRect)frame;
 -(void)getCompletionBlock:(CompletionBlock)completionHandler;
+-(void)setPrefilledCardNumber:(NSString*)scannedCardNumber;
+
+
 
 @end
